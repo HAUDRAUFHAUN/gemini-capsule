@@ -9,7 +9,15 @@
   "blacklist": [],
   "default_whitelist": false,
   "dynamic": [],
-  "link": [],
+  "link": [
+    {
+      "domain": null,
+      "file_path": "img/memoji_laugh.png",
+      "link_path": "memoji_laugh",
+      "mime_type": "image/png",
+      "preload": true
+    }
+  ],
   "config_files": [],
   "default_preload": null
 }
