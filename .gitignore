@@ -1,0 +1,7 @@
+# certificates // keys in the data dir
+data/certificate.crt
+data/private.key
+data/profile.pfx
+
+# log
+log.txt

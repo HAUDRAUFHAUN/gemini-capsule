@@ -1,0 +1,14 @@
+
+                                                                                                                 
+
+
+# haudraufhaun
+Welcome to my gemini capsule 👋. I'm a nerdy highschool student who is interested in tech. 🤓
+
+
+## Blogposts
+### 🇬🇧 english
+This section is WIP
+### 🇩🇪 german
+=> /blog/sicher-im-internet.gmi Sicher im Internet
+=> /blog/jekyll-tutorial.gmi Websiteentwicklung mit Jekyll

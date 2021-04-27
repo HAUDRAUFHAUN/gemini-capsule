@@ -1,0 +1,15 @@
+{
+  "domain": null,
+  "whitelist": [
+    "index.gmi",
+    "blog/jekyll-tutorial.gmi",
+    "blog/sicher-im-internet.gmi",
+    "img/memoji_laugh.png"
+  ],
+  "blacklist": [],
+  "default_whitelist": false,
+  "dynamic": [],
+  "link": [],
+  "config_files": [],
+  "default_preload": null
+}
