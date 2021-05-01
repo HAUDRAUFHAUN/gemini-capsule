@@ -76,3 +76,5 @@ Ein empfehlenswerter freier Passwortmanager ist
 => https://bitwarden.com/ Bitwarden. 
 Bitwarden kann die Passwörter geräteübergreifend synchronisieren, sichere Passwörter generieren und ist für alle erdenklichen Plattformen erhältlich 
 => https://addons.mozilla.org/de/firefox/addon/bitwarden-password-manager/ auch als Firefox-Erweiterung.
+
+=> / Home
